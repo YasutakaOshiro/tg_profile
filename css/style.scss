@@ -5,3 +5,8 @@
 .member .member_fv.ikeda .name_box .sns_list li {
     filter: none;
 }
+@media screen and(max-width: 896px){
+    .member .member_content {
+        padding: 60px 0 200px;
+    }
+}
